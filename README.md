@@ -6,7 +6,7 @@
 - 🌱 Atualmente estudando .NET Framework
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-castro-dev&show_icons=true&theme=dark)](https://github.com/gabriel-castro-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-castro-dev&show_icons=true&theme=dark&count_private=true)](https://github.com/gabriel-castro-dev/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-castro-dev&layout=compact&theme=dark)
 <div>
             <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
