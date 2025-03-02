@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor web e de softwares
+- 🔭 Desenvolvedor web e back-end
 - 🌱 Atualmente estudando ASP.NET e .NET CORE
 
 
