@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedor web e de softwares
-- 🌱 Atualmente estudando .NET Framework
+- 🌱 Atualmente estudando ASP.NET e .NET CORE
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-castro-dev&show_icons=true&theme=dark&count_private=true)](https://github.com/gabriel-castro-dev/github-readme-stats)
