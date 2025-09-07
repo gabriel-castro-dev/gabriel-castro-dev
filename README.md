@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor web e back-end
+- 🔭 Desenvolvedor FULL-STACK
 - 🌱 Atualmente estudando Blazor, Node.JS e React
 
 
