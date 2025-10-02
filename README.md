@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedor FULL-STACK
-- 🌱 Atualmente estudando Blazor, Node.JS e React
+- 🌱 Atualmente estudando Blazor, Python e React
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-castro-dev&show_icons=true&theme=dark&count_private=true)](https://github.com/gabriel-castro-dev/github-readme-stats)
