@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor FULL-STACK
+- 🔭 Estagiário em Inteligência de Dados 
 - 🌱 Atualmente estudando Data Science
 
 
