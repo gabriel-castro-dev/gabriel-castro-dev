@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Estagiário em Inteligência de Dados 
-- 🌱 Atualmente estudando Data Science
+- 🔭 Estagiário em Dados 
+- 🌱 Atualmente estudando Data Science @PucMinas
 
 
 
