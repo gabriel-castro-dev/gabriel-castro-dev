@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estagiário em Dados 
+- 🔭 Data Engineering | Analista Jr 
 - 🌱 Atualmente estudando Data Science @PucMinas
 
 
