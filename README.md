@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Data Engineering | Analista Jr 
-- 🌱 Atualmente estudando Data Science @PucMinas
+-  Analista Jr 
+-  Atualmente estudando Data Science @PucMinas
+-  Estudando para o Google Cloud Associate Cloud Engineer 
 
 
 
