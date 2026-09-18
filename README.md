@@ -2,7 +2,7 @@
 
 
 
--  Analista de Desenvolvimento Jr 
+-  Full Stack Software Engineer 
 -  Atualmente estudando Engenharia de Software @PucMinas
 -  Estudando para o Google Cloud - Associate Cloud Engineer 
 
